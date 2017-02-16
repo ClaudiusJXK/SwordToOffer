@@ -23,7 +23,7 @@ public class SingleTon {
 /**
  * 
  * @author Claudius
- * 使用静态内部类创建单例模式，使用了类的加载过程中的原子性。
+ * 使用静态内部类创建单例模式，使用了类的加载过程中的线程安全性。
  */
 class SingleTon2{
 	private SingleTon2 () {}
