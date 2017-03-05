@@ -6,3 +6,4 @@
 |4|[字符串替换](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/RepalceSpace.java)|easy|java|String|
 |5|[反向打印链表](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/PrintLinkedListInversely.java)|easy|java|递归&&链表|
 |6|[重建二叉树](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/rebuildBinaryTree)|Middle|java|递归、二叉树的遍历|
+|13|[输出大数](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/PrintToMaxOfDigits)|Middle|java|考虑细节|
