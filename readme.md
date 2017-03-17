@@ -1,11 +1,11 @@
-##按照分类排列，具体问题在.java文件中查询readme.md
-| Squence | Problem       | Level	| Language  | Tags|
-|:-------:|:-------------:|:-------:|:---------:|:----:|
-|2|[单例模式](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/SingleTon.java)|easy|java|设计模式|
-|3|[数组查询](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/Query.java)|Middle|java|数组|
-|4|[字符串替换](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/RepalceSpace.java)|easy|java|String|
-|5|[反向打印链表](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/PrintLinkedListInversely.java)|easy|java|递归&&链表|
-|6|[重建二叉树](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/rebuildBinaryTree)|Middle|java|递归、二叉树的遍历|
-|13|[输出大数](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/PrintToMaxOfDigits.java)|Middle|java|考虑细节|
-|16|[翻转数组](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/reverseList)|Middle|java|细节|
-|阿里面试题|[数组四等分](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NewMain.java)|Hard|java|细节|
+##鎸夌収鍒嗙被鎺掑垪锛屽叿浣撻棶棰樺湪.java鏂囦欢涓煡璇eadme.md
+| Squence | Problem       | Level	| Language  | tags|
+|:-------:|:--------------|:------:|:---------:|:-------------:|
+|2|[鍗曚緥妯″紡](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/SingleTon.java)|easy|java|璁捐妯″紡|
+|3|[鏁扮粍鏌ヨ](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/Query.java)|Middle|java|鏁扮粍|
+|4|[瀛楃涓叉浛鎹(https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/RepalceSpace.java)|easy|java|String|
+|5|[鍙嶅悜鎵撳嵃閾捐〃](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/PrintLinkedListInversely.java)|easy|java|閫掑綊&&閾捐〃|
+|6|[閲嶅缓浜屽弶鏍慮(https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/rebuildBinaryTree)|Middle|java|閫掑綊銆佷簩鍙夋爲鐨勯亶鍘唡
+|13|[杈撳嚭澶ф暟](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/PrintToMaxOfDigits.java)|Middle|java|鑰冭檻缁嗚妭|
+|16|[缈昏浆鏁扮粍](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/reverseList)|Middle|java|缁嗚妭|
+|闃块噷闈㈣瘯棰榺[鏁扮粍鍥涚瓑鍒哴(https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NewMain.java)|Hard|java|缁嗚妭|
