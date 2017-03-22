@@ -10,4 +10,5 @@
 |13|[输出大数](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/PrintToMaxOfDigits.java)|Middle|java|考虑细节|
 |16|[翻转链表](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/reverseList)|Middle|java|细节|
 |18|[树的子结构](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/subTree)|Middle|java|细节，递归，树的遍历|
+|21|[包含min的栈](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/stackWithMin)|easy|java|思路|
 |阿里面试题|[数组四等分](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NewMain.java)|Hard|java|细节|
