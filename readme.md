@@ -13,4 +13,5 @@
 |21|[包含min的栈](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/stackWithMin)|easy|java|思路|
 |22|[栈的压入弹出序列](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/CheckStack.java)|Hard|java|栈，细节，思路|
 |23|[广度遍历二叉树](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/traverseBinarytree.java)|easy|java|思路|
+|24|[判断二叉搜索树的后续遍历](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/JudgeBSTree.java)|middle|java|思路，二叉搜索树的规律|
 |阿里面试题|[数组四等分](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NewMain.java)|Hard|java|细节|
