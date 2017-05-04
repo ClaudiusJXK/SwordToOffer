@@ -2,10 +2,13 @@ package question29;
 
 /**
  * Created by Claudius on 2017/5/3.
+ * 判断一个数组中，某个数是否出现次数超过数组的一半，若有，则 输出该数，若无，则返回0
+ * 使用快速排序的partition函数，确定数组middle位置的数字，如果这个数字超过了数组长度的一半，那么middle位置的数字肯定是这个数字。
+ * 最后再遍历依次数组，verify一下这个数组即可。
  */
 public class MoreThanHalf {
     public static void main(String[] args) {
-        int[] nums = {1, 2, 3, 2, 2, 2, 5, 4, 2};
+        int[] nums = {3, 3, 3, 3, 2, 2, 2, 2, 1, 2, 3, 2, 2, 2, 5, 4, 2};
         System.out.print(caculator(nums));
     }
 
@@ -49,10 +52,10 @@ public class MoreThanHalf {
         while (left < right) {
             while (left < right && nums[right] >= value)
                 right--;
-            nums[left++] = nums[right];
+            nums[left] = nums[right];
             while (left < right && nums[left] <= value)
                 left++;
-            nums[right--] = nums[left];
+            nums[right] = nums[left];
         }
         nums[left] = value;
         return left;
