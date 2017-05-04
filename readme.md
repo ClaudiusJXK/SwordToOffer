@@ -17,6 +17,7 @@
 |25|[二叉树中和为某一值的路径](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/pathOfBinaryTree)|middle|java|思路|
 |27|[二叉搜索树转换为双向链表](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/treeToList)|middle|java|思路|
 |28|[求一个字符串所有字符的可能排列](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/SubStrings.java)|middle|java|思路|
+|29|[求数组中出现过半次数的数字](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/MoreThanHalf)|middle|java&python|思路|
 |阿里笔试题|[数组四等分](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NewMain.java)|Hard|java|细节|
 |网易笔试题|[调整BG位置，调整次数最少](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/Adjust.java)|easy|java|细节|
 |今日头条笔试题|[找先递增后递减的最大区间](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/MaxSection.java)|middle|java|细节|
