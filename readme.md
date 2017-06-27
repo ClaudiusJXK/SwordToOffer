@@ -26,6 +26,8 @@
 |35|[字符串中第一个唯一字符](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/FirstOnlyOne.java)|middle|java|思路|
 |36|[数组中逆序对](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/ReversePairNum.java)|hard|java|思路，归并排序|
 |37|[链表首公共结点](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/FindCommonInList.java)|easy|java|思路|
+|38|[数组中某一值的个数](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/GetTimesOfNum.java)|middle|java|思路|
+|39|[二叉树的深度与是否为BST](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/question39)|hard|java|思路|
 |阿里笔试题|[数组四等分](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NewMain.java)|Hard|java|细节|
 |网易笔试题|[调整BG位置，调整次数最少](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/Adjust.java)|easy|java|细节|
 |今日头条笔试题|[找先递增后递减的最大区间](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/MaxSection.java)|middle|java|细节|
