@@ -30,6 +30,8 @@
 |39|[二叉树的深度与是否为BST](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/question39)|hard|java|思路|
 |40|[找出数组中只出现一次的两个值](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/OnceInArray.java)|hard|java|位运算，思路|
 |41|[和为s的子序列](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/SumIsS.java)|middle|java|思路|
+|42|[左旋字符数组](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/LeftRotateString.java)|easy|java|思路|
+|43|[骰子和的分布情况](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NumOfDices.java)|hard|java|思路|
 |阿里笔试题|[数组四等分](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NewMain.java)|Hard|java|细节|
 |网易笔试题|[调整BG位置，调整次数最少](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/Adjust.java)|easy|java|细节|
 |今日头条笔试题|[找先递增后递减的最大区间](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/MaxSection.java)|middle|java|细节|
