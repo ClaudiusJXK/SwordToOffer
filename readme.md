@@ -32,6 +32,7 @@
 |41|[和为s的子序列](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/SumIsS.java)|middle|java|思路|
 |42|[左旋字符数组](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/LeftRotateString.java)|easy|java|思路|
 |43|[骰子和的分布情况](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NumOfDices.java)|hard|java|思路|
+|44|[扑克牌序列](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/SequenceOfCard.java)|easey|java|思路 数组排序|
 |阿里笔试题|[数组四等分](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NewMain.java)|Hard|java|细节|
 |网易笔试题|[调整BG位置，调整次数最少](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/Adjust.java)|easy|java|细节|
 |今日头条笔试题|[找先递增后递减的最大区间](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/MaxSection.java)|middle|java|细节|
