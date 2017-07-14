@@ -36,6 +36,7 @@
 |45|[去掉序列中第m个值](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/RemoveMthNumInCircle.java)|easy|java|逻辑思维能力|
 |47|[不使用+-/*进行求和](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/Add.java)|middle|java|位运算|
 |50|[树节点最近公共祖先](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/Question50)|hard|java|树的遍历|
+|53|[实现正则表达式. *](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/question53)|hard|java|思路，细节，边界|
 |阿里笔试题|[数组四等分](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NewMain.java)|Hard|java|细节|
 |网易笔试题|[调整BG位置，调整次数最少](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/Adjust.java)|easy|java|细节|
 |今日头条笔试题|[找先递增后递减的最大区间](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/MaxSection.java)|middle|java|细节|
