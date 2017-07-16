@@ -42,8 +42,10 @@
 |55|[字符流中第一个不重复的字符](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/question55.md)|middle|java|思路，逻辑|
 |56|[链表中环的入口结点](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/circleListAccess.md)|middle|java|思路，逻辑|
 |58|[二叉树的下一个结点](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NextNode.java)|middle|java|思路，逻辑，树的遍历|
-|59|[对称的二叉树](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/symmetricBTree.md)|easy|java|思路，逻辑，树的遍历|
-|60|[按行打印二叉树](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/printBinaryTreeByLine.md)|easy|java|思路，逻辑，树的遍历|
+|59|[对称的二叉树](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/symmetricBTree.md)|easy|java|树的遍历|
+|60|[按行打印二叉树](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/printBinaryTreeByLine.md)|easy|java|逻辑|
+|61|[按之字打印二叉树](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/PrintTreeInSpecialWay.java)|middle|java|逻辑,栈的理解|
+|63|[二叉搜索树第K个值](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/KthNodeInBST.java)|middle|java|二叉搜索树的遍历|
 |阿里笔试题|[数组四等分](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/NewMain.java)|Hard|java|细节|
 |网易笔试题|[调整BG位置，调整次数最少](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/Adjust.java)|easy|java|细节|
 |今日头条笔试题|[找先递增后递减的最大区间](https://github.com/ClaudiusGitHub/SwordToOffer/blob/master/java/MaxSection.java)|middle|java|细节|
